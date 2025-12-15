@@ -175,3 +175,13 @@ You should see:
 - **Tutorial**: Colab-first install + secrets + Kaggle dataset workflow + demo run steps
 
 ---
+
+## Example Output Video and Front End Demo
+
+<img width="1512" height="982" alt="Screenshot 2025-12-08 at 2 39 01 PM" src="https://github.com/user-attachments/assets/675f223a-b208-48e6-b70f-d17102c22601" />
+
+https://github.com/user-attachments/assets/f266c9b1-1b33-45fa-b468-69a693eb6b94
+
+
+
+
