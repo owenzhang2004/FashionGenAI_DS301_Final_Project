@@ -73,7 +73,7 @@ Steps the notebook performs:
   - `kaggle datasets download -d paramaggarwal/fashion-product-images-small -p /content/data`
   - unzips to `/content/data/fashion_small`
 
-✅ After this, images are expected at:
+After this, images are expected at:
 - `/content/data/fashion_small/images/*.jpg`
 and metadata at:
 - `/content/data/fashion_small/styles.csv`
